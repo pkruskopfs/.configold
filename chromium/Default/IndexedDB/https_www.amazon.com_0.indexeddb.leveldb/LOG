@@ -1,0 +1,6 @@
+2021/06/24-21:21:18.062 767ec Creating DB /home/peter/.config/chromium/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb since it was missing.
+2021/06/24-21:21:18.064 767ec Reusing MANIFEST /home/peter/.config/chromium/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/27-10:26:04.094 2298f7 Level-0 table #5: started
+2021/06/27-10:26:04.095 2298f7 Level-0 table #5: 1311 bytes OK
+2021/06/27-10:26:04.097 2298f7 Delete type=0 #3
+2021/06/27-10:26:04.097 2298f7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

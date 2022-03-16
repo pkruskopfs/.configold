@@ -1,0 +1,1013 @@
+Aug 07 12:04 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 07 12:13 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 07 12:15 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 07 12:21 : player: played "Foo Fighters/Echoes, Silence, Patience & Grace/01 The Pretender.mp3"
+Aug 07 12:22 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 07 12:26 : player: played "Foo Fighters/There Is Nothing Left to Lose/01 Stacked Actors.mp3"
+Aug 07 12:30 : player: played "Foo Fighters/There Is Nothing Left to Lose/02 Breakout.mp3"
+Aug 07 12:33 : player: played "Foo Fighters/There Is Nothing Left to Lose/03 Learn to Fly.mp3"
+Aug 07 12:37 : player: played "Foo Fighters/There Is Nothing Left to Lose/04 Gimme Stitches.mp3"
+Aug 07 12:41 : player: played "Foo Fighters/There Is Nothing Left to Lose/05 Generator.mp3"
+Aug 07 12:47 : player: played "Foo Fighters/There Is Nothing Left to Lose/06 Aurora.mp3"
+Aug 07 12:51 : player: played "Foo Fighters/There Is Nothing Left to Lose/07 Live-In Skin.mp3"
+Aug 07 12:55 : player: played "Foo Fighters/There Is Nothing Left to Lose/08 Next Year.mp3"
+Aug 07 13:00 : player: played "Foo Fighters/There Is Nothing Left to Lose/09 Headwires.mp3"
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mpeg4: header damaged
+Aug 07 13:11 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mpeg4: header damaged
+Aug 07 13:11 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mpeg4: header damaged
+Aug 07 13:11 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mpeg4: header damaged
+Aug 07 13:11 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mpeg4: header damaged
+Aug 07 13:11 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mpeg4: header damaged
+Aug 07 13:11 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mpeg4: header damaged
+Aug 07 13:11 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mpeg4: header damaged
+Aug 07 13:11 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:12 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mpeg4: header damaged
+Aug 07 13:12 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:12 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mpeg4: header damaged
+Aug 07 13:12 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:12 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mpeg4: header damaged
+Aug 07 13:12 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:12 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mpeg4: header damaged
+Aug 07 13:12 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mpeg4: header damaged
+Aug 07 13:13 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mpeg4: header damaged
+Aug 07 13:13 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mpeg4: header damaged
+Aug 07 13:13 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mpeg4: header damaged
+Aug 07 13:13 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mpeg4: header damaged
+Aug 07 13:13 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mpeg4: header damaged
+Aug 07 13:13 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:18 : update: added Foo Fighters/Foo Fighters - Medicine At Midnight/Foo Fighters - 08 - Chasing Birds.flac
+Aug 07 13:18 : update: added Foo Fighters/Foo Fighters - Medicine At Midnight/Foo Fighters - 06 - No Son Of Mine.flac
+Aug 07 13:18 : update: added Foo Fighters/Foo Fighters - Medicine At Midnight/Foo Fighters - 02 - Shame Shame.flac
+Aug 07 13:18 : update: added Foo Fighters/Foo Fighters - Medicine At Midnight/Foo Fighters - 04 - Waiting On A War.flac
+Aug 07 13:18 : update: added Foo Fighters/Foo Fighters - Medicine At Midnight/Foo Fighters - 01 - Making A Fire.flac
+Aug 07 13:18 : update: added Foo Fighters/Foo Fighters - Medicine At Midnight/Foo Fighters - 03 - Cloudspotter.flac
+Aug 07 13:18 : update: added Foo Fighters/Foo Fighters - Medicine At Midnight/Foo Fighters - 07 - Holding Poison.flac
+Aug 07 13:18 : update: added Foo Fighters/Foo Fighters - Medicine At Midnight/Foo Fighters - 05 - Medicine At Midnight.flac
+Aug 07 13:18 : update: added Foo Fighters/Foo Fighters - Medicine At Midnight/Foo Fighters - 09 - Love Dies Young.flac
+Aug 07 13:19 : update: removing Foo Fighters/Foo Fighters - Medicine At Midnight/Foo Fighters - 09 - Love Dies Young.flac
+Aug 07 13:19 : update: removing Foo Fighters/Foo Fighters - Medicine At Midnight/Foo Fighters - 08 - Chasing Birds.flac
+Aug 07 13:19 : update: removing Foo Fighters/Foo Fighters - Medicine At Midnight/Foo Fighters - 07 - Holding Poison.flac
+Aug 07 13:19 : update: removing Foo Fighters/Foo Fighters - Medicine At Midnight/Foo Fighters - 06 - No Son Of Mine.flac
+Aug 07 13:19 : update: removing Foo Fighters/Foo Fighters - Medicine At Midnight/Foo Fighters - 05 - Medicine At Midnight.flac
+Aug 07 13:19 : update: removing Foo Fighters/Foo Fighters - Medicine At Midnight/Foo Fighters - 04 - Waiting On A War.flac
+Aug 07 13:19 : update: removing Foo Fighters/Foo Fighters - Medicine At Midnight/Foo Fighters - 03 - Cloudspotter.flac
+Aug 07 13:19 : update: removing Foo Fighters/Foo Fighters - Medicine At Midnight/Foo Fighters - 02 - Shame Shame.flac
+Aug 07 13:19 : update: removing Foo Fighters/Foo Fighters - Medicine At Midnight/Foo Fighters - 01 - Making A Fire.flac
+Aug 07 13:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:19 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Aug 07 13:19 : ffmpeg/mpeg4: header damaged
+Aug 07 13:19 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Aug 07 13:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:19 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Aug 07 13:19 : ffmpeg/mpeg4: header damaged
+Aug 07 13:19 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Aug 07 13:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 13:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 13:21 : update: added Foo Fighters/Medicine At Midnight/Foo Fighters - 08 - Chasing Birds.flac
+Aug 07 13:21 : update: added Foo Fighters/Medicine At Midnight/Foo Fighters - 06 - No Son Of Mine.flac
+Aug 07 13:21 : update: added Foo Fighters/Medicine At Midnight/Foo Fighters - 02 - Shame Shame.flac
+Aug 07 13:21 : update: added Foo Fighters/Medicine At Midnight/Foo Fighters - 04 - Waiting On A War.flac
+Aug 07 13:21 : update: added Foo Fighters/Medicine At Midnight/Foo Fighters - 01 - Making A Fire.flac
+Aug 07 13:21 : update: added Foo Fighters/Medicine At Midnight/Foo Fighters - 03 - Cloudspotter.flac
+Aug 07 13:21 : update: added Foo Fighters/Medicine At Midnight/Foo Fighters - 07 - Holding Poison.flac
+Aug 07 13:21 : update: added Foo Fighters/Medicine At Midnight/Foo Fighters - 05 - Medicine At Midnight.flac
+Aug 07 13:21 : update: added Foo Fighters/Medicine At Midnight/Foo Fighters - 09 - Love Dies Young.flac
+Aug 07 15:02 : update: added Young The Giant - Young The Giant/07 - Young the Giant - Strings.mp3
+Aug 07 15:02 : update: added Young The Giant - Young The Giant/05 - Young the Giant - God Made Man.mp3
+Aug 07 15:02 : update: added Young The Giant - Young The Giant/10 - Young the Giant - St. Walker.mp3
+Aug 07 15:02 : update: added Young The Giant - Young The Giant/06 - Young the Giant - 12 Fingers.mp3
+Aug 07 15:02 : update: added Young The Giant - Young The Giant/01 - Young the Giant - Apartment.mp3
+Aug 07 15:02 : update: added Young The Giant - Young The Giant/04 - Young the Giant - Cough Syrup.mp3
+Aug 07 15:02 : update: added Young The Giant - Young The Giant/03 - Young the Giant - I Got.mp3
+Aug 07 15:02 : update: added Young The Giant - Young The Giant/08 - Young the Giant - Your Side.mp3
+Aug 07 15:02 : update: added Young The Giant - Young The Giant/11 - Young the Giant - Islands.mp3
+Aug 07 15:02 : update: added Young The Giant - Young The Giant/09 - Young the Giant - Garands.mp3
+Aug 07 15:02 : update: added Young The Giant - Young The Giant/12 - Young the Giant - Guns Out.mp3
+Aug 07 15:02 : update: added Young The Giant - Young The Giant/02 - Young the Giant - My Body.mp3
+Aug 07 15:05 : exception: Failed to access /home/peter/Music/YoungthGianEssntalsPhOs28: No such file or directory
+Aug 07 15:11 : update: added Young The Giant/Essentials 2019/01 My Body.mp3
+Aug 07 15:11 : update: added Young The Giant/Essentials 2019/05 Silvertongue.mp3
+Aug 07 15:11 : update: added Young The Giant/Essentials 2019/16 Crystallized.mp3
+Aug 07 15:11 : update: added Young The Giant/Essentials 2019/09 Strings.mp3
+Aug 07 15:11 : update: added Young The Giant/Essentials 2019/08 Amerika.mp3
+Aug 07 15:11 : update: added Young The Giant/Essentials 2019/14 Titus Was Born.mp3
+Aug 07 15:11 : update: added Young The Giant/Essentials 2019/11 I Got.mp3
+Aug 07 15:11 : update: added Young The Giant/Essentials 2019/02 Superposition.mp3
+Aug 07 15:11 : update: added Young The Giant/Essentials 2019/07 It's About Time.mp3
+Aug 07 15:11 : update: added Young The Giant/Essentials 2019/04 Cough Syrup.mp3
+Aug 07 15:11 : update: added Young The Giant/Essentials 2019/15 God Made Man.mp3
+Aug 07 15:11 : update: added Young The Giant/Essentials 2019/12 Mr. Know-It-All.mp3
+Aug 07 15:11 : update: added Young The Giant/Essentials 2019/10 Mind Over Matter.mp3
+Aug 07 15:11 : update: added Young The Giant/Essentials 2019/13 Apartment.mp3
+Aug 07 15:11 : update: added Young The Giant/Essentials 2019/03 Something To Believe In.mp3
+Aug 07 15:11 : update: added Young The Giant/Essentials 2019/06 Simplify.mp3
+Aug 07 15:11 : update: added Young The Giant/Young The Giant/07 - Young the Giant - Strings.mp3
+Aug 07 15:11 : update: added Young The Giant/Young The Giant/05 - Young the Giant - God Made Man.mp3
+Aug 07 15:11 : update: added Young The Giant/Young The Giant/10 - Young the Giant - St. Walker.mp3
+Aug 07 15:11 : update: added Young The Giant/Young The Giant/06 - Young the Giant - 12 Fingers.mp3
+Aug 07 15:11 : update: added Young The Giant/Young The Giant/01 - Young the Giant - Apartment.mp3
+Aug 07 15:11 : update: added Young The Giant/Young The Giant/04 - Young the Giant - Cough Syrup.mp3
+Aug 07 15:11 : update: added Young The Giant/Young The Giant/03 - Young the Giant - I Got.mp3
+Aug 07 15:11 : update: added Young The Giant/Young The Giant/08 - Young the Giant - Your Side.mp3
+Aug 07 15:11 : update: added Young The Giant/Young The Giant/11 - Young the Giant - Islands.mp3
+Aug 07 15:11 : update: added Young The Giant/Young The Giant/09 - Young the Giant - Garands.mp3
+Aug 07 15:11 : update: added Young The Giant/Young The Giant/12 - Young the Giant - Guns Out.mp3
+Aug 07 15:11 : update: added Young The Giant/Young The Giant/02 - Young the Giant - My Body.mp3
+Aug 07 15:12 : update: removing Young The Giant - Young The Giant/12 - Young the Giant - Guns Out.mp3
+Aug 07 15:12 : update: removing Young The Giant - Young The Giant/11 - Young the Giant - Islands.mp3
+Aug 07 15:12 : update: removing Young The Giant - Young The Giant/10 - Young the Giant - St. Walker.mp3
+Aug 07 15:12 : update: removing Young The Giant - Young The Giant/09 - Young the Giant - Garands.mp3
+Aug 07 15:12 : update: removing Young The Giant - Young The Giant/08 - Young the Giant - Your Side.mp3
+Aug 07 15:12 : update: removing Young The Giant - Young The Giant/07 - Young the Giant - Strings.mp3
+Aug 07 15:12 : update: removing Young The Giant - Young The Giant/06 - Young the Giant - 12 Fingers.mp3
+Aug 07 15:12 : update: removing Young The Giant - Young The Giant/05 - Young the Giant - God Made Man.mp3
+Aug 07 15:12 : update: removing Young The Giant - Young The Giant/04 - Young the Giant - Cough Syrup.mp3
+Aug 07 15:12 : update: removing Young The Giant - Young The Giant/03 - Young the Giant - I Got.mp3
+Aug 07 15:12 : update: removing Young The Giant - Young The Giant/02 - Young the Giant - My Body.mp3
+Aug 07 15:12 : update: removing Young The Giant - Young The Giant/01 - Young the Giant - Apartment.mp3
+Aug 07 15:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 15:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 15:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 15:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 15:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 15:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 15:12 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Aug 07 15:12 : ffmpeg/mpeg4: header damaged
+Aug 07 15:12 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Aug 07 15:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 15:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 15:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 15:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 15:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 15:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 15:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 15:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 15:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 15:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 15:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 15:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 15:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 15:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 15:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 15:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 15:12 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Aug 07 15:12 : ffmpeg/mpeg4: header damaged
+Aug 07 15:12 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Aug 07 15:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 15:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 15:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 07 15:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 07 18:44 : update: added Cage The Elephant/Social Cues/10-cage_the_elephant-dance_dance.mp3
+Aug 07 18:44 : update: added Cage The Elephant/Social Cues/09-cage_the_elephant-the_war_is_over.mp3
+Aug 07 18:44 : update: added Cage The Elephant/Social Cues/06-cage_the_elephant-ready_to_let_go.mp3
+Aug 07 18:44 : update: added Cage The Elephant/Social Cues/12-cage_the_elephant-tokyo_smoke.mp3
+Aug 07 18:44 : update: added Cage The Elephant/Social Cues/03-cage_the_elephant-black_madonna.mp3
+Aug 07 18:44 : update: added Cage The Elephant/Social Cues/02-cage_the_elephant-social_cues.mp3
+Aug 07 18:44 : update: added Cage The Elephant/Social Cues/01-cage_the_elephant-broken_boy.mp3
+Aug 07 18:44 : update: added Cage The Elephant/Social Cues/13-cage_the_elephant-goodbye.mp3
+Aug 07 18:44 : update: added Cage The Elephant/Social Cues/08-cage_the_elephant-loves_the_only_way.mp3
+Aug 07 18:44 : update: added Cage The Elephant/Social Cues/11-cage_the_elephant-what_im_becoming.mp3
+Aug 07 18:44 : update: added Cage The Elephant/Social Cues/05-cage_the_elephant-skin_and_bones.mp3
+Aug 07 18:44 : update: added Cage The Elephant/Social Cues/04-cage_the_elephant-night_running_(with_beck).mp3
+Aug 07 18:44 : update: added Cage The Elephant/Social Cues/07-cage_the_elephant-house_of_glass.mp3
+Aug 07 18:47 : player: played "Cage The Elephant/Social Cues/01-cage_the_elephant-broken_boy.mp3"
+Aug 07 22:23 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 12 14:24 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 13 10:51 : player: played "Young The Giant/Essentials 2019/01 My Body.mp3"
+Aug 16 13:21 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 17 16:11 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 17 16:32 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/02.Could You Be Loved.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/07.No Woman, No Cry.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/17.Satisfy My Soul.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/04.I Shot The Sheriff.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/03.Is This Love.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/12.Roots Rock Reggae.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/06.One Love.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/10.Exodus.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/01.Iron Lion Zion.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/11.Sun Is Shining.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/08.Get Up Stand Up.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/18.Punky Reggae Party.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/14.Waiting In Vain.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/13.So Much Trouble In The World.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/05.Jamming.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/09.Buffalo Soldier.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/16.Stir It Up.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/15.Three Little Birds.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/05.Lively Up Yourself.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/02.Survival.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/16.One Drop.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/18.Rebel Music (3 O'Clock Road Block).flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/11.Natural Mystic.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/01.Positive Vibration.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/13.Ride Natty Ride.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/15.Zion Train.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/10.Kinky Reggae.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/07.Africa Unite.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/14.Them Belly Full (But We Hungry).flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/08.Easy Skanking.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/06.Concrete Jungle.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/12.Put It On.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/19.Zimbabwe.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/17.Duppy Conqueror.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/09.Chant Down Babylon.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/04.Keep On Moving.flac
+Aug 18 15:32 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/03.Kaya.flac
+Aug 18 15:35 : player: played "Bob Marley - Greatest Hits 2CD/Disc 1/01.Iron Lion Zion.flac"
+Aug 18 15:37 : player: played "Bob Marley - Greatest Hits 2CD/Disc 1/18.Punky Reggae Party.flac"
+Aug 18 15:42 : player: played "Bob Marley - Greatest Hits 2CD/Disc 1/02.Could You Be Loved.flac"
+Aug 18 15:46 : player: played "Bob Marley - Greatest Hits 2CD/Disc 1/03.Is This Love.flac"
+Aug 18 15:51 : player: played "Bob Marley - Greatest Hits 2CD/Disc 1/04.I Shot The Sheriff.flac"
+Aug 18 15:54 : player: played "Bob Marley - Greatest Hits 2CD/Disc 1/05.Jamming.flac"
+Aug 18 15:57 : player: played "Bob Marley - Greatest Hits 2CD/Disc 1/06.One Love.flac"
+Aug 18 16:01 : player: played "Bob Marley - Greatest Hits 2CD/Disc 1/07.No Woman, No Cry.flac"
+Aug 19 17:15 : player: played "Bob Marley - Greatest Hits 2CD/Disc 1/08.Get Up Stand Up.flac"
+Aug 19 17:16 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 24 12:14 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 25 07:43 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 28 11:11 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 28 13:50 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 29 11:47 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 29 21:57 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 29 22:17 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 30 08:45 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 30 08:47 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 30 08:49 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 30 08:54 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 30 09:34 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 30 10:24 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 30 10:45 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 30 11:04 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 30 11:07 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 30 11:16 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 30 11:20 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 30 11:34 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 30 21:14 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 31 12:30 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 31 12:41 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 31 12:42 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Aug 31 12:47 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Sep 02 12:57 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Sep 02 14:53 : player: played "Young The Giant/Essentials 2019/01 My Body.mp3"
+Sep 04 09:28 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Sep 05 10:15 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Sep 06 08:40 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Sep 15 09:19 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Sep 17 09:59 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Sep 28 15:01 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Oct 01 08:08 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Oct 02 06:23 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Oct 04 10:44 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Oct 04 17:29 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Oct 08 11:19 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Oct 10 08:52 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Oct 11 07:00 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Oct 12 10:24 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Oct 13 08:28 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Oct 18 09:27 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Oct 18 16:45 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Nov 01 14:20 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Nov 03 11:43 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Nov 06 11:13 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Nov 07 12:03 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Nov 10 07:49 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Nov 10 19:37 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Nov 10 19:42 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Nov 10 19:45 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Nov 12 19:16 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Nov 15 07:41 : avahi: Service 'Music Player @ thinkpad' successfully established.
+Nov 15 14:50 : update: added /07 - The Who - Going Mobile.flac
+Nov 15 14:50 : update: added /13 - The Who - Water (alt. version).flac
+Nov 15 14:50 : update: added /12 - The Who - Naked Eye.flac
+Nov 15 14:50 : update: added /15 - The Who - I Don't Even Know Myself.flac
+Nov 15 14:50 : update: added /09 - The Who - Won't Get Fooled Again.flac
+Nov 15 14:50 : update: added /08 - The Who - Behind Blue Eyes.flac
+Nov 15 14:50 : update: added /04 - The Who - My Wife.flac
+Nov 15 14:50 : update: added /06 - The Who - Getting In Tune.flac
+Nov 15 14:50 : update: added /01 - The Who - Baba O'Riley.flac
+Nov 15 14:50 : update: added /10 - The Who - Pure And Easy (alt. version).flac
+Nov 15 14:50 : update: added /16 - The Who - Behind Blue Eyes (alt. version).flac
+Nov 15 14:50 : update: added /02 - The Who - Bargain.flac
+Nov 15 14:50 : update: added /14 - The Who - Too Much Of Anything.flac
+Nov 15 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 15 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 15 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 15 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 15 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 15 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 15 14:50 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Nov 15 14:50 : ffmpeg/mpeg4: header damaged
+Nov 15 14:50 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Nov 15 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 15 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 15 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 15 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 15 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 15 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 15 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 15 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 15 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 15 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 15 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 15 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 15 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 15 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 15 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 15 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 15 14:50 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Nov 15 14:50 : ffmpeg/mpeg4: header damaged
+Nov 15 14:50 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Nov 15 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 15 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 15 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 15 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 15 14:50 : update: added /05 - The Who - The Song Is Over.flac
+Nov 15 14:50 : update: added /03 - The Who - Love Ain't For Keeping.flac
+Nov 15 14:50 : update: added /11 - The Who - Baby Don't You Do It (alt. version).flac
+Nov 15 14:52 : update: added TheWho/07 - The Who - Going Mobile.flac
+Nov 15 14:52 : update: added TheWho/13 - The Who - Water (alt. version).flac
+Nov 15 14:52 : update: added TheWho/12 - The Who - Naked Eye.flac
+Nov 15 14:52 : update: added TheWho/15 - The Who - I Don't Even Know Myself.flac
+Nov 15 14:52 : update: added TheWho/09 - The Who - Won't Get Fooled Again.flac
+Nov 15 14:52 : update: added TheWho/08 - The Who - Behind Blue Eyes.flac
+Nov 15 14:52 : update: added TheWho/04 - The Who - My Wife.flac
+Nov 15 14:52 : update: added TheWho/06 - The Who - Getting In Tune.flac
+Nov 15 14:52 : update: added TheWho/01 - The Who - Baba O'Riley.flac
+Nov 15 14:52 : update: added TheWho/10 - The Who - Pure And Easy (alt. version).flac
+Nov 15 14:52 : update: added TheWho/16 - The Who - Behind Blue Eyes (alt. version).flac
+Nov 15 14:52 : update: added TheWho/02 - The Who - Bargain.flac
+Nov 15 14:52 : update: added TheWho/14 - The Who - Too Much Of Anything.flac
+Nov 15 14:52 : update: added TheWho/05 - The Who - The Song Is Over.flac
+Nov 15 14:52 : update: added TheWho/03 - The Who - Love Ain't For Keeping.flac
+Nov 15 14:52 : update: added TheWho/11 - The Who - Baby Don't You Do It (alt. version).flac
+Nov 15 14:52 : update: removing 04 - The Who - My Wife.flac
+Nov 15 14:52 : update: removing 03 - The Who - Love Ain't For Keeping.flac
+Nov 15 14:52 : update: removing 02 - The Who - Bargain.flac
+Nov 15 14:52 : update: removing 01 - The Who - Baba O'Riley.flac
+Nov 15 14:52 : update: removing 11 - The Who - Baby Don't You Do It (alt. version).flac
+Nov 15 14:52 : update: removing 10 - The Who - Pure And Easy (alt. version).flac
+Nov 15 14:52 : update: removing 09 - The Who - Won't Get Fooled Again.flac
+Nov 15 14:52 : update: removing 08 - The Who - Behind Blue Eyes.flac
+Nov 15 14:52 : update: removing 07 - The Who - Going Mobile.flac
+Nov 15 14:52 : update: removing 06 - The Who - Getting In Tune.flac
+Nov 15 14:52 : update: removing 05 - The Who - The Song Is Over.flac
+Nov 15 14:52 : update: removing 16 - The Who - Behind Blue Eyes (alt. version).flac
+Nov 15 14:52 : update: removing 15 - The Who - I Don't Even Know Myself.flac
+Nov 15 14:52 : update: removing 14 - The Who - Too Much Of Anything.flac
+Nov 15 14:52 : update: removing 13 - The Who - Water (alt. version).flac
+Nov 15 14:52 : update: removing 12 - The Who - Naked Eye.flac
+Nov 15 14:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 15 14:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 15 14:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 15 14:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 15 14:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 15 14:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 15 14:52 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Nov 15 14:52 : ffmpeg/mpeg4: header damaged
+Nov 15 14:52 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Nov 15 14:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 15 14:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 15 14:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 15 14:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 15 14:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 15 14:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 15 14:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 15 14:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 15 14:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 15 14:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 15 14:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 15 14:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 15 14:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 15 14:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 15 14:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 15 14:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 15 14:52 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Nov 15 14:52 : ffmpeg/mpeg4: header damaged
+Nov 15 14:52 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Nov 15 14:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 15 14:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 15 14:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 15 14:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 15 14:58 : player: played "TheWho/01 - The Who - Baba O'Riley.flac"
+Nov 15 15:04 : player: played "TheWho/02 - The Who - Bargain.flac"
+Nov 15 15:06 : player: played "TheWho/03 - The Who - Love Ain't For Keeping.flac"
+Nov 15 15:10 : player: played "TheWho/04 - The Who - My Wife.flac"
+Nov 15 15:16 : player: played "TheWho/05 - The Who - The Song Is Over.flac"
+Nov 15 15:21 : player: played "TheWho/06 - The Who - Getting In Tune.flac"
+Nov 15 15:24 : player: played "TheWho/07 - The Who - Going Mobile.flac"
+Nov 15 15:28 : player: played "TheWho/08 - The Who - Behind Blue Eyes.flac"
+Nov 15 15:37 : player: played "TheWho/09 - The Who - Won't Get Fooled Again.flac"
+Nov 15 15:41 : player: played "TheWho/10 - The Who - Pure And Easy (alt. version).flac"
+Nov 15 15:46 : player: played "TheWho/11 - The Who - Baby Don't You Do It (alt. version).flac"
+Nov 17 13:57 : player: played "TheWho/12 - The Who - Naked Eye.flac"
+Nov 19 11:23 : player: played "TheWho/13 - The Who - Water (alt. version).flac"
+Nov 19 11:24 : update: added Young The Giant/Young The Giant/07 - Young the Giant - Strings.mp3
+Nov 19 11:24 : update: added Young The Giant/Young The Giant/05 - Young the Giant - God Made Man.mp3
+Nov 19 11:24 : update: added Young The Giant/Young The Giant/10 - Young the Giant - St. Walker.mp3
+Nov 19 11:24 : update: added Young The Giant/Young The Giant/06 - Young the Giant - 12 Fingers.mp3
+Nov 19 11:24 : update: added Young The Giant/Young The Giant/01 - Young the Giant - Apartment.mp3
+Nov 19 11:24 : update: added Young The Giant/Young The Giant/04 - Young the Giant - Cough Syrup.mp3
+Nov 19 11:24 : update: added Young The Giant/Young The Giant/03 - Young the Giant - I Got.mp3
+Nov 19 11:24 : update: added Young The Giant/Young The Giant/08 - Young the Giant - Your Side.mp3
+Nov 19 11:24 : update: added Young The Giant/Young The Giant/11 - Young the Giant - Islands.mp3
+Nov 19 11:24 : update: added Young The Giant/Young The Giant/09 - Young the Giant - Garands.mp3
+Nov 19 11:24 : update: added Young The Giant/Young The Giant/12 - Young the Giant - Guns Out.mp3
+Nov 19 11:24 : update: added Young The Giant/Young The Giant/02 - Young the Giant - My Body.mp3
+Nov 19 11:24 : update: added Young The Giant/Essentials 2019/01 My Body.mp3
+Nov 19 11:24 : update: added Young The Giant/Essentials 2019/05 Silvertongue.mp3
+Nov 19 11:24 : update: added Young The Giant/Essentials 2019/16 Crystallized.mp3
+Nov 19 11:24 : update: added Young The Giant/Essentials 2019/09 Strings.mp3
+Nov 19 11:24 : update: added Young The Giant/Essentials 2019/08 Amerika.mp3
+Nov 19 11:24 : update: added Young The Giant/Essentials 2019/14 Titus Was Born.mp3
+Nov 19 11:24 : update: added Young The Giant/Essentials 2019/11 I Got.mp3
+Nov 19 11:24 : update: added Young The Giant/Essentials 2019/02 Superposition.mp3
+Nov 19 11:24 : update: added Young The Giant/Essentials 2019/07 It's About Time.mp3
+Nov 19 11:24 : update: added Young The Giant/Essentials 2019/04 Cough Syrup.mp3
+Nov 19 11:24 : update: added Young The Giant/Essentials 2019/15 God Made Man.mp3
+Nov 19 11:24 : update: added Young The Giant/Essentials 2019/12 Mr. Know-It-All.mp3
+Nov 19 11:24 : update: added Young The Giant/Essentials 2019/10 Mind Over Matter.mp3
+Nov 19 11:24 : update: added Young The Giant/Essentials 2019/13 Apartment.mp3
+Nov 19 11:24 : update: added Young The Giant/Essentials 2019/03 Something To Believe In.mp3
+Nov 19 11:24 : update: added Young The Giant/Essentials 2019/06 Simplify.mp3
+Nov 19 11:24 : update: added TomPetty/2000s/Disc 4 - 15 - Like a Diamond (alternate version, 2002).ogg
+Nov 19 11:24 : update: added TomPetty/2000s/Disc 4 - 11 - Sins of My Youth (early take, 2012).ogg
+Nov 19 11:24 : update: added TomPetty/2000s/Disc 4 - 13 - Something Good Coming.ogg
+Nov 19 11:24 : update: added TomPetty/2000s/Disc 4 - 07 - Southern Accents (live at Stephen C. O'Connell Center, Gainesville, FL, 9-21-06).ogg
+Nov 19 11:24 : update: added TomPetty/2000s/Disc 4 - 04 - Bus to Tampa Bay (outtake, 2011).ogg
+Nov 19 11:24 : update: added TomPetty/2000s/Disc 4 - 09 - Two Men Talking (outtake, 2012).ogg
+Nov 19 11:24 : update: added TomPetty/2000s/Disc 4 - 12 - Good Enough (alternate version, 2012).ogg
+Nov 19 11:24 : update: added TomPetty/2000s/Disc 4 - 02 - Have Love Will Travel.ogg
+Nov 19 11:24 : update: added TomPetty/2000s/Disc 4 - 10 - Fault Lines.ogg
+Nov 19 11:24 : update: added TomPetty/2000s/Disc 4 - 05 - Saving Grace (live at Malibu Performing Arts Center, Malibu, CA, 7-26-06).ogg
+Nov 19 11:24 : update: added TomPetty/2000s/Disc 4 - 06 - Down South.ogg
+Nov 19 11:24 : update: added TomPetty/2000s/Disc 4 - 14 - Save Your Water.ogg
+Nov 19 11:24 : update: added TomPetty/2000s/Disc 4 - 01 - You and Me (Clubhouse version, 2007).ogg
+Nov 19 11:24 : update: added TomPetty/2000s/Disc 4 - 16 - Hungry No More (live at House of Blues, Boston, MA, 6-15-16).ogg
+Nov 19 11:24 : update: added TomPetty/2000s/Disc 4 - 08 - Insider (live at Stephen C. O'Connell Center, Gainesville, FL, 9-21-06).ogg
+Nov 19 11:24 : update: added TomPetty/2000s/Disc 4 - 03 - Money Becomes King.ogg
+Nov 19 11:24 : update: added TomPetty/1970s/Disc 1 - 01 - Surrender (outtake, 1976).ogg
+Nov 19 11:24 : update: added TomPetty/1970s/Disc 1 - 13 - What Are You Doing in My Life (alternate version, 1979).ogg
+Nov 19 11:24 : update: added TomPetty/1970s/Disc 1 - 12 - Here Comes My Girl (alternate version, 1979).ogg
+Nov 19 11:24 : update: added TomPetty/1970s/Disc 1 - 08 - Fooled Again (I Don't Like It) (alternate version, 1976).ogg
+Nov 19 11:24 : update: added TomPetty/1970s/Disc 1 - 06 - Radio Promotion Spot.ogg
+Nov 19 11:24 : update: added TomPetty/1970s/Disc 1 - 11 - No Second Thoughts.ogg
+Nov 19 11:24 : update: added TomPetty/1970s/Disc 1 - 15 - Lost in Your Eyes (outtake, 1974).ogg
+Nov 19 11:24 : update: added TomPetty/1970s/Disc 1 - 03 - Anything That's Rock 'n' Roll (live at Capitol Studios, Hollywood, CA, 11-11-77).ogg
+Nov 19 11:24 : update: added TomPetty/1970s/Disc 1 - 09 - Breakdown (live at Capitol Studios, Hollywood, CA, 11-11-77).ogg
+Nov 19 11:24 : update: added TomPetty/1970s/Disc 1 - 10 - The Wild One, Forever.ogg
+Nov 19 11:24 : update: added TomPetty/1970s/Disc 1 - 05 - You're Gonna Get It (alternate version, 1978).ogg
+Nov 19 11:24 : update: added TomPetty/1970s/Disc 1 - 02 - Listen to Her Heart (live at The Record Plant, Sausalito, CA, 4-23-77).ogg
+Nov 19 11:24 : update: added TomPetty/1970s/Disc 1 - 04 - When the Time Comes.ogg
+Nov 19 11:24 : update: added TomPetty/1970s/Disc 1 - 07 - Rockin' Around (With You).ogg
+Nov 19 11:24 : update: added TomPetty/1970s/Disc 1 - 14 - Louisiana Rain (alternate version, 1979).ogg
+Nov 19 11:24 : update: added TomPetty/1990s/Disc 3 - 12 - Accused of Love.ogg
+Nov 19 11:24 : update: added TomPetty/1990s/Disc 3 - 05 - Two Gunslingers (live at The Beacon Theatre, New York, NY, 5-25-13).ogg
+Nov 19 11:24 : update: added TomPetty/1990s/Disc 3 - 07 - To Find a Friend.ogg
+Nov 19 11:24 : update: added TomPetty/1990s/Disc 3 - 11 - I Don't Belong (outtake, 1998).ogg
+Nov 19 11:24 : update: added TomPetty/1990s/Disc 3 - 10 - Grew Up Fast.ogg
+Nov 19 11:24 : update: added TomPetty/1990s/Disc 3 - 13 - Lonesome Sundown.ogg
+Nov 19 11:24 : update: added TomPetty/1990s/Disc 3 - 09 - Wake Up Time (alternate take, 1992).ogg
+Nov 19 11:24 : update: added TomPetty/1990s/Disc 3 - 02 - Gainesville (outtake, 1998).ogg
+Nov 19 11:24 : update: added TomPetty/1990s/Disc 3 - 06 - Lonesome Dave (outtake, 1993).ogg
+Nov 19 11:24 : update: added TomPetty/1990s/Disc 3 - 01 - I Won't Back Down (live at The Fillmore, San Francisco, CA, 2-4-87).ogg
+Nov 19 11:24 : update: added TomPetty/1990s/Disc 3 - 08 - Crawling Back to You.ogg
+Nov 19 11:24 : update: added TomPetty/1990s/Disc 3 - 04 - Into the Great Wide Open (live at Oakland-Alameda County Coliseum, Oakland, CA, 11-24-91).ogg
+Nov 19 11:24 : update: added TomPetty/1990s/Disc 3 - 03 - You and I Will Meet Again.ogg
+Nov 19 11:24 : update: added TomPetty/1990s/Disc 3 - 14 - Don't Fade on Me (alternate take, 1994).ogg
+Nov 19 11:24 : update: added TomPetty/1980s/Disc 2 - 06 - Concert Intro (live at The Forum, Inglewood, CA, 6-28-81).ogg
+Nov 19 11:24 : update: added TomPetty/1980s/Disc 2 - 09 - A Woman in Love (It's Not Me) (live at The Forum, Inglewood, CA, 6-28-81).ogg
+Nov 19 11:24 : update: added TomPetty/1980s/Disc 2 - 04 - Don't Treat Me Like a Stranger.ogg
+Nov 19 11:24 : update: added TomPetty/1980s/Disc 2 - 16 - The Best of Everything (alternate version, 1985).ogg
+Nov 19 11:24 : update: added TomPetty/1980s/Disc 2 - 18 - King of the Hill (early take, 1987).ogg
+Nov 19 11:24 : update: added TomPetty/1980s/Disc 2 - 08 - Clear the Aisles (live at The Forum, Inglewood, CA, 6-28-81).ogg
+Nov 19 11:24 : update: added TomPetty/1980s/Disc 2 - 11 - You Can Still Change Your Mind.ogg
+Nov 19 11:24 : update: added TomPetty/1980s/Disc 2 - 13 - Deliver Me (alternate version, 1982).ogg
+Nov 19 11:24 : update: added TomPetty/1980s/Disc 2 - 12 - Rebels (alternate version, 1985).ogg
+Nov 19 11:24 : update: added TomPetty/1980s/Disc 2 - 07 - Kings Road (live at The Forum, Inglewood, CA, 6-28-81).ogg
+Nov 19 11:24 : update: added TomPetty/1980s/Disc 2 - 02 - Even the Losers (live at Rochester Community War Memorial, Rochester, NY, 9-9-89).ogg
+Nov 19 11:24 : update: added TomPetty/1980s/Disc 2 - 15 - The Damage You've Done (alternate version, 1987).ogg
+Nov 19 11:24 : update: added TomPetty/1980s/Disc 2 - 01 - Keep a Little Soul (outtake, 1982).ogg
+Nov 19 11:24 : update: added TomPetty/1980s/Disc 2 - 05 - The Apartment Song (demo, 1984).ogg
+Nov 19 11:24 : update: added TomPetty/1980s/Disc 2 - 10 - Straight Into Darkness (alternate version, 1982).ogg
+Nov 19 11:24 : update: added TomPetty/1980s/Disc 2 - 03 - Keeping Me Alive (outtake, 1982).ogg
+Nov 19 11:24 : update: added TomPetty/1980s/Disc 2 - 14 - Alright for Now.ogg
+Nov 19 11:24 : update: added TomPetty/1980s/Disc 2 - 17 - Walkin' From the Fire (outtake, 1984).ogg
+Nov 19 11:24 : update: added Cage The Elephant/Social Cues/10-cage_the_elephant-dance_dance.mp3
+Nov 19 11:24 : update: added Cage The Elephant/Social Cues/09-cage_the_elephant-the_war_is_over.mp3
+Nov 19 11:24 : update: added Cage The Elephant/Social Cues/06-cage_the_elephant-ready_to_let_go.mp3
+Nov 19 11:24 : update: added Cage The Elephant/Social Cues/12-cage_the_elephant-tokyo_smoke.mp3
+Nov 19 11:24 : update: added Cage The Elephant/Social Cues/03-cage_the_elephant-black_madonna.mp3
+Nov 19 11:24 : update: added Cage The Elephant/Social Cues/02-cage_the_elephant-social_cues.mp3
+Nov 19 11:24 : update: added Cage The Elephant/Social Cues/01-cage_the_elephant-broken_boy.mp3
+Nov 19 11:24 : update: added Cage The Elephant/Social Cues/13-cage_the_elephant-goodbye.mp3
+Nov 19 11:24 : update: added Cage The Elephant/Social Cues/08-cage_the_elephant-loves_the_only_way.mp3
+Nov 19 11:24 : update: added Cage The Elephant/Social Cues/11-cage_the_elephant-what_im_becoming.mp3
+Nov 19 11:24 : update: added Cage The Elephant/Social Cues/05-cage_the_elephant-skin_and_bones.mp3
+Nov 19 11:24 : update: added Cage The Elephant/Social Cues/04-cage_the_elephant-night_running_(with_beck).mp3
+Nov 19 11:24 : update: added Cage The Elephant/Social Cues/07-cage_the_elephant-house_of_glass.mp3
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/02.Could You Be Loved.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/07.No Woman, No Cry.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/17.Satisfy My Soul.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/04.I Shot The Sheriff.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/03.Is This Love.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/12.Roots Rock Reggae.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/06.One Love.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/10.Exodus.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/01.Iron Lion Zion.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/11.Sun Is Shining.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/08.Get Up Stand Up.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/18.Punky Reggae Party.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/14.Waiting In Vain.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/13.So Much Trouble In The World.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/05.Jamming.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/09.Buffalo Soldier.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/16.Stir It Up.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 1/15.Three Little Birds.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/05.Lively Up Yourself.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/02.Survival.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/16.One Drop.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/18.Rebel Music (3 O'Clock Road Block).flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/11.Natural Mystic.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/01.Positive Vibration.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/13.Ride Natty Ride.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/15.Zion Train.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/10.Kinky Reggae.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/07.Africa Unite.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/14.Them Belly Full (But We Hungry).flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/08.Easy Skanking.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/06.Concrete Jungle.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/12.Put It On.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/19.Zimbabwe.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/17.Duppy Conqueror.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/09.Chant Down Babylon.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/04.Keep On Moving.flac
+Nov 19 11:24 : update: added Bob Marley - Greatest Hits 2CD/Disc 2/03.Kaya.flac
+Nov 19 11:24 : update: added Guns 'n Roses  - Appetite for Destruction/02 It's So Easy.mp3
+Nov 19 11:24 : update: added Guns 'n Roses  - Appetite for Destruction/06 Paradise City.mp3
+Nov 19 11:24 : update: added Guns 'n Roses  - Appetite for Destruction/05 Mr. Brownstone.mp3
+Nov 19 11:24 : update: added Guns 'n Roses  - Appetite for Destruction/08 Think About You.mp3
+Nov 19 11:24 : update: added Guns 'n Roses  - Appetite for Destruction/09 Sweet Child O'Mine.mp3
+Nov 19 11:24 : update: added Guns 'n Roses  - Appetite for Destruction/07 My Michelle.mp3
+Nov 19 11:24 : update: added Guns 'n Roses  - Appetite for Destruction/10 You're Crazy.mp3
+Nov 19 11:24 : update: added Guns 'n Roses  - Appetite for Destruction/03 Nightrain.mp3
+Nov 19 11:24 : update: added Guns 'n Roses  - Appetite for Destruction/12 Rocket Queen.mp3
+Nov 19 11:24 : update: added Guns 'n Roses  - Appetite for Destruction/04 Out Ta Get Me.mp3
+Nov 19 11:24 : update: added Guns 'n Roses  - Appetite for Destruction/01 Welcome to the Jungle.mp3
+Nov 19 11:24 : update: added Guns 'n Roses  - Appetite for Destruction/11 Anything Goes.mp3
+Nov 19 11:24 : update: added Foo Fighters/Echoes, Silence, Patience & Grace/05 Come Alive.mp3
+Nov 19 11:24 : update: added Foo Fighters/Echoes, Silence, Patience & Grace/12 Home.mp3
+Nov 19 11:24 : update: added Foo Fighters/Echoes, Silence, Patience & Grace/02 Let It Die.mp3
+Nov 19 11:24 : update: added Foo Fighters/Echoes, Silence, Patience & Grace/06 Stranger Things Have Happened.mp3
+Nov 19 11:24 : update: added Foo Fighters/Echoes, Silence, Patience & Grace/04 Long Road To Ruin.mp3
+Nov 19 11:24 : update: added Foo Fighters/Echoes, Silence, Patience & Grace/10 Statues.mp3
+Nov 19 11:24 : update: added Foo Fighters/Echoes, Silence, Patience & Grace/09 Ballad Of The Beaconsfield Miners.mp3
+Nov 19 11:24 : update: added Foo Fighters/Echoes, Silence, Patience & Grace/03 Erase_Replace.mp3
+Nov 19 11:24 : update: added Foo Fighters/Echoes, Silence, Patience & Grace/08 Summer's End.mp3
+Nov 19 11:24 : update: added Foo Fighters/Echoes, Silence, Patience & Grace/01 The Pretender.mp3
+Nov 19 11:24 : update: added Foo Fighters/Echoes, Silence, Patience & Grace/11 But, Honestly.mp3
+Nov 19 11:24 : update: added Foo Fighters/Echoes, Silence, Patience & Grace/07 Cheer Up, Boys (Your Make Up Is Running).mp3
+Nov 19 11:24 : update: added Foo Fighters/In Your Honor [Disc 1]/1-06 The Last Song.mp3
+Nov 19 11:24 : update: added Foo Fighters/In Your Honor [Disc 1]/1-09 The Deepest Blues Are Black.mp3
+Nov 19 11:24 : update: added Foo Fighters/In Your Honor [Disc 1]/1-08 Resolve.mp3
+Nov 19 11:24 : update: added Foo Fighters/In Your Honor [Disc 1]/1-01 In Your Honor.mp3
+Nov 19 11:24 : update: added Foo Fighters/In Your Honor [Disc 1]/1-03 Best Of You.mp3
+Nov 19 11:24 : update: added Foo Fighters/In Your Honor [Disc 1]/1-05 Hell.mp3
+Nov 19 11:24 : update: added Foo Fighters/In Your Honor [Disc 1]/1-04 DOA.mp3
+Nov 19 11:24 : update: added Foo Fighters/In Your Honor [Disc 1]/1-10 End Over End.mp3
+Nov 19 11:24 : update: added Foo Fighters/In Your Honor [Disc 1]/1-07 Free Me.mp3
+Nov 19 11:24 : update: added Foo Fighters/In Your Honor [Disc 1]/1-02 No Way Back.mp3
+Nov 19 11:24 : update: added Foo Fighters/Medicine At Midnight/Foo Fighters - 08 - Chasing Birds.flac
+Nov 19 11:24 : update: added Foo Fighters/Medicine At Midnight/Foo Fighters - 06 - No Son Of Mine.flac
+Nov 19 11:24 : update: added Foo Fighters/Medicine At Midnight/Foo Fighters - 02 - Shame Shame.flac
+Nov 19 11:24 : update: added Foo Fighters/Medicine At Midnight/Foo Fighters - 04 - Waiting On A War.flac
+Nov 19 11:24 : update: added Foo Fighters/Medicine At Midnight/Foo Fighters - 01 - Making A Fire.flac
+Nov 19 11:24 : update: added Foo Fighters/Medicine At Midnight/Foo Fighters - 03 - Cloudspotter.flac
+Nov 19 11:24 : update: added Foo Fighters/Medicine At Midnight/Foo Fighters - 07 - Holding Poison.flac
+Nov 19 11:24 : update: added Foo Fighters/Medicine At Midnight/Foo Fighters - 05 - Medicine At Midnight.flac
+Nov 19 11:24 : update: added Foo Fighters/Medicine At Midnight/Foo Fighters - 09 - Love Dies Young.flac
+Nov 19 11:24 : update: added Foo Fighters/There Is Nothing Left to Lose/03 Learn to Fly.mp3
+Nov 19 11:24 : update: added Foo Fighters/There Is Nothing Left to Lose/11 M.I.A..mp3
+Nov 19 11:24 : update: added Foo Fighters/There Is Nothing Left to Lose/04 Gimme Stitches.mp3
+Nov 19 11:24 : update: added Foo Fighters/There Is Nothing Left to Lose/09 Headwires.mp3
+Nov 19 11:24 : update: added Foo Fighters/There Is Nothing Left to Lose/08 Next Year.mp3
+Nov 19 11:24 : update: added Foo Fighters/There Is Nothing Left to Lose/07 Live-In Skin.mp3
+Nov 19 11:24 : update: added Foo Fighters/There Is Nothing Left to Lose/10 Ain't It the Life.mp3
+Nov 19 11:24 : update: added Foo Fighters/There Is Nothing Left to Lose/06 Aurora.mp3
+Nov 19 11:24 : update: added Foo Fighters/There Is Nothing Left to Lose/01 Stacked Actors.mp3
+Nov 19 11:24 : update: added Foo Fighters/There Is Nothing Left to Lose/05 Generator.mp3
+Nov 19 11:24 : update: added Foo Fighters/There Is Nothing Left to Lose/02 Breakout.mp3
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Nov 19 11:24 : update: added Foo Fighters/Wasting Light (Deluxe Version)/06 These Days.m4a
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Nov 19 11:24 : update: added Foo Fighters/Wasting Light (Deluxe Version)/15 Walk (Live At the Roxy).m4v
+Nov 19 11:24 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Nov 19 11:24 : ffmpeg/mpeg4: header damaged
+Nov 19 11:24 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Nov 19 11:24 : update: added Foo Fighters/Wasting Light (Deluxe Version)/05 Arlandria.m4a
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Nov 19 11:24 : update: added Foo Fighters/Wasting Light (Deluxe Version)/14 White Limo.m4v
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Nov 19 11:24 : update: added Foo Fighters/Wasting Light (Deluxe Version)/08 A Matter of Time.m4a
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Nov 19 11:24 : update: added Foo Fighters/Wasting Light (Deluxe Version)/03 Dear Rosemary.m4a
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Nov 19 11:24 : update: added Foo Fighters/Wasting Light (Deluxe Version)/04 White Limo.m4a
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Nov 19 11:24 : update: added Foo Fighters/Wasting Light (Deluxe Version)/02 Rope.m4a
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Nov 19 11:24 : update: added Foo Fighters/Wasting Light (Deluxe Version)/10 I Should Have Known.m4a
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Nov 19 11:24 : update: added Foo Fighters/Wasting Light (Deluxe Version)/12 Rope (Deadmau5 Mix).m4a
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Nov 19 11:24 : update: added Foo Fighters/Wasting Light (Deluxe Version)/11 Walk.m4a
+Nov 19 11:24 : ffmpeg/m4v: Format m4v detected only with low score of 1, misdetection possible!
+Nov 19 11:24 : ffmpeg/mpeg4: header damaged
+Nov 19 11:24 : ffmpeg/m4v: Could not find codec parameters for stream 0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Nov 19 11:24 : update: added Foo Fighters/Wasting Light (Deluxe Version)/07 Back & Forth.m4a
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Nov 19 11:24 : update: added Foo Fighters/Wasting Light (Deluxe Version)/13 Better Off.m4a
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Nov 19 11:24 : update: added Foo Fighters/Wasting Light (Deluxe Version)/09 Miss the Misery.m4a
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 19 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Nov 19 11:24 : update: added Foo Fighters/Wasting Light (Deluxe Version)/01 Bridge Burning.m4a
+Nov 19 11:24 : update: added Foo Fighters/In Your Honor [Disc 2]/2-01 Still.mp3
+Nov 19 11:24 : update: added Foo Fighters/In Your Honor [Disc 2]/2-03 Miracle.mp3
+Nov 19 11:24 : update: added Foo Fighters/In Your Honor [Disc 2]/2-04 Another Round.mp3
+Nov 19 11:24 : update: added Foo Fighters/In Your Honor [Disc 2]/2-06 Over And Out.mp3
+Nov 19 11:24 : update: added Foo Fighters/In Your Honor [Disc 2]/2-10 Razor.mp3
+Nov 19 11:24 : update: added Foo Fighters/In Your Honor [Disc 2]/2-07 On The Mend.mp3
+Nov 19 11:24 : update: added Foo Fighters/In Your Honor [Disc 2]/2-05 Friend Of A Friend.mp3
+Nov 19 11:24 : update: added Foo Fighters/In Your Honor [Disc 2]/2-09 Cold Day In The Sun.mp3
+Nov 19 11:24 : update: added Foo Fighters/In Your Honor [Disc 2]/2-02 What If I Do_.mp3
+Nov 19 11:24 : update: added Foo Fighters/In Your Honor [Disc 2]/2-08 Virginia Moon.mp3
+Nov 19 11:24 : update: added Foo Fighters/One by One/Overdrive.mp3
+Nov 19 11:24 : update: added Foo Fighters/One by One/Times Like These.mp3
+Nov 19 11:24 : update: added Foo Fighters/One by One/Burn Away.mp3
+Nov 19 11:24 : update: added Foo Fighters/One by One/Have It All.mp3
+Nov 19 11:24 : update: added Foo Fighters/One by One/Lonely as You.mp3
+Nov 19 11:24 : update: added Foo Fighters/One by One/Low.mp3
+Nov 19 11:24 : update: added Foo Fighters/One by One/All My Life.mp3
+Nov 19 11:24 : update: added Foo Fighters/One by One/Come Back.mp3
+Nov 19 11:24 : update: added Foo Fighters/One by One/Disenchanted Lullaby.mp3
+Nov 19 11:24 : update: added Foo Fighters/One by One/Tired of You.mp3
+Nov 19 11:24 : update: added Foo Fighters/One by One/Halo.mp3
+Nov 19 11:24 : update: added TheWho/07 - The Who - Going Mobile.flac
+Nov 19 11:24 : update: added TheWho/13 - The Who - Water (alt. version).flac
+Nov 19 11:24 : update: added TheWho/12 - The Who - Naked Eye.flac
+Nov 19 11:24 : update: added TheWho/15 - The Who - I Don't Even Know Myself.flac
+Nov 19 11:24 : update: added TheWho/09 - The Who - Won't Get Fooled Again.flac
+Nov 19 11:24 : update: added TheWho/08 - The Who - Behind Blue Eyes.flac
+Nov 19 11:24 : update: added TheWho/04 - The Who - My Wife.flac
+Nov 19 11:24 : update: added TheWho/06 - The Who - Getting In Tune.flac
+Nov 19 11:24 : update: added TheWho/01 - The Who - Baba O'Riley.flac
+Nov 19 11:24 : update: added TheWho/10 - The Who - Pure And Easy (alt. version).flac
+Nov 19 11:24 : update: added TheWho/16 - The Who - Behind Blue Eyes (alt. version).flac
+Nov 19 11:24 : update: added TheWho/02 - The Who - Bargain.flac
+Nov 19 11:24 : update: added TheWho/14 - The Who - Too Much Of Anything.flac
+Nov 19 11:24 : update: added TheWho/05 - The Who - The Song Is Over.flac
+Nov 19 11:24 : update: added TheWho/03 - The Who - Love Ain't For Keeping.flac
+Nov 19 11:24 : update: added TheWho/11 - The Who - Baby Don't You Do It (alt. version).flac

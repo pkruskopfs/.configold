@@ -1,0 +1,56 @@
+# Mutt configuration file
+set ssl_force_tls = yes
+set abort_nosubject = no
+set mail_check = 60
+set timeout = 10
+set sort = "reverse-date-received"
+set signature = "~/.mutt/signature"
+set copy = no
+
+set imap_check_subscribed = yes
+set imap_list_subscribed = yes
+
+set from = "pkruskopfs@gmail.com"
+set realname = "Peter Kruskopfs"
+
+# Imap settings
+set imap_user = "pkruskopfs@gmail.com"
+set imap_pass = "kzfxmrmpxcnvvnjl"
+
+# Smtp settings
+set smtp_url = "smtps://pkruskopfs@smtp.gmail.com"
+set smtp_pass = "kzfxmrmpxcnvvnjl"
+
+# Remote gmail folders
+#set folder = "imaps://imap.gmail.com:993"
+set folder = "home/peter/.local/share/mail/pkruskopfs@gmail.com/INBOX"
+set spoolfile = "+INBOX"
+set postponed = "+[Gmail]/Drafts"
+set record = "+[Gmail]/Sent Mail"
+set trash = "+[Gmail]/Trash"
+
+set editor = nvim
+
+set sidebar_width=20
+set sidebar_visible=yes
+set mail_check_stats
+
+set header_cache = ~/.cache/mutt
+set message_cachedir = ~/.cache/mutt
+
+#Sidebar navigation
+# sidebar mappings
+bind index,pager \Ck sidebar-prev              #Ctrl-k Up
+bind index,pager \Cj sidebar-next              #Ctrl-j Down
+bind index,pager \Co sidebar-open              #Ctrl-o Open
+bind index,pager \Cp sidebar-prev-new          #Ctrl-p Open previous new
+bind index,pager \Cn sidebar-next-new          #Ctrl-n Open next new
+bind index,pager B sidebar-toggle-visible      #Ctrl-B toggle sidebar
+
+#Color Theme
+#source /home/peter/.mutt/mutt-colors-solorized-dark-16.muttrc
+#source ~/.mutt/gruvbox/colors-gruvbox-shuber.muttrc
+# For neomutt uncomment this line:
+#source ~/.mutt/gruvbox/colors-gruvbox-shuber-extended.muttrc
+source ~/.config/neomutt/colors
+

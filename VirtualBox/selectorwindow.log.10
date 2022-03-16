@@ -1,0 +1,21 @@
+00:00:01.903857 VirtualBox GUI VM Selector Window 6.1.26 r145957 linux.amd64 (Jul 29 2021 12:15:28) release log
+00:00:01.903859 Log opened 2021-10-11T19:28:31.198392000Z
+00:00:01.903859 Build Type: release
+00:00:01.903860 OS Product: Linux
+00:00:01.903861 OS Release: 5.10.70-1-MANJARO
+00:00:01.903861 OS Version: #1 SMP PREEMPT Thu Sep 30 15:29:01 UTC 2021
+00:00:01.903873 DMI Product Name: 20U9CTO1WW
+00:00:01.903878 DMI Product Version: ThinkPad X1 Carbon Gen 8
+00:00:01.903881 Firmware type: UEFI
+00:00:01.904262 Secure Boot: Disabled
+00:00:01.904287 Host RAM: 15794MB (15.4GB) total, 13665MB (13.3GB) available
+00:00:01.904289 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:01.904289 Process ID: 85865
+00:00:01.904290 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:01.904307 Qt version: 5.15.2
+00:00:01.919196 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.341630 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 3460x28 x 372x518
+00:00:02.342013 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 3460x553 x 372x519
+00:00:02.383607 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:18.007836 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:18.016333 GUI: UIMediumEnumerator: Medium-enumeration finished!

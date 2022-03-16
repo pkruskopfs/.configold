@@ -1,0 +1,76 @@
+{
+  "main_window_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAeSAAAAKgAAC5YAAAQlAAAHkwAAACsAAAuVAAAEJAAAAAAAAAAAB4AAAAeTAAAAKwAAC5UAAAQk"
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIgA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAlwD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACAAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOwA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAM0A////AAAEAwAAA/oAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "base_font_size": 24,
+    "controls_help_shown_count": 2,
+    "current_color_scheme": "black",
+    "hide_tooltips": null,
+    "read_mode": "flow",
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {},
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Stephen King"
+        ],
+        "key": "/home/peter/Calibre Library/Stephen King/The Stand (5)/The Stand - Stephen King.epub",
+        "pathtoebook": "/home/peter/Calibre Library/Stephen King/The Stand (5)/The Stand - Stephen King.epub",
+        "timestamp": "2022-02-03T15:42:51.825Z",
+        "title": "The Stand"
+      },
+      {
+        "authors": [
+          "Stephen Hunter"
+        ],
+        "key": "/home/peter/Stephen Hunter - Bob Lee Swagger 01 Point of Impact (retail).epub",
+        "pathtoebook": "/home/peter/Stephen Hunter - Bob Lee Swagger 01 Point of Impact (retail).epub",
+        "timestamp": "2021-12-27T17:59:16.040Z",
+        "title": "Point of Impact"
+      },
+      {
+        "authors": [
+          "William Peter Blatty"
+        ],
+        "key": "/home/peter/Downloads/Newshosting/2021-09-29/The Stand - Stephen King/The Exorcist - William Peter Blatty.epub",
+        "pathtoebook": "/home/peter/Downloads/Newshosting/2021-09-29/The Stand - Stephen King/The Exorcist - William Peter Blatty.epub",
+        "timestamp": "2021-11-13T23:56:09.300Z",
+        "title": "The Exorcist"
+      },
+      {
+        "authors": [
+          "Stephen Hunter"
+        ],
+        "key": "/home/peter/Calibre Library/Stephen Hunter/Point of Impact (3)/Point of Impact - Stephen Hunter.epub",
+        "pathtoebook": "/home/peter/Calibre Library/Stephen Hunter/Point of Impact (3)/Point of Impact - Stephen Hunter.epub",
+        "timestamp": "2021-10-05T19:31:06.488Z",
+        "title": "Point of Impact"
+      },
+      {
+        "authors": [
+          "Stephen Hunter"
+        ],
+        "key": "/home/peter/Downloads/Newshosting/2021-10-05/Stephen Hunter Bob Lee Swagger 01 Point of Impact retail/Stephen Hunter - Bob Lee Swagger 01 Point of Impact (retail).epub",
+        "pathtoebook": "/home/peter/Downloads/Newshosting/2021-10-05/Stephen Hunter Bob Lee Swagger 01 Point of Impact retail/Stephen Hunter - Bob Lee Swagger 01 Point of Impact (retail).epub",
+        "timestamp": "2021-10-05T19:23:16.902Z",
+        "title": "Point of Impact"
+      },
+      {
+        "authors": [
+          "Stephen King"
+        ],
+        "key": "/home/peter/Downloads/Newshosting/2021-09-29/The Stand - Stephen King/The Stand - Stephen King.epub",
+        "pathtoebook": "/home/peter/Downloads/Newshosting/2021-09-29/The Stand - Stephen King/The Stand - Stephen King.epub",
+        "timestamp": "2021-09-29T20:27:26.073Z",
+        "title": "The Stand"
+      }
+    ]
+  }
+}

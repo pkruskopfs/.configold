@@ -1,0 +1,17 @@
+ Basic key bindings here
+super + Return
+        $TERMINAL
+super + d
+        dmenu_run
+super + e
+        $TERMINAL -e neomutt
+super + n
+        $TERMINAL -e newsboat
+super + grave
+        unicode 
+super + shift + l
+        $TERMINAL -e slock
+super + w
+	$TERMINAL -e less -Srf ~/.local/share/weatherreport
+super + Print
+	flameshot gui

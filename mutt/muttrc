@@ -1,0 +1,20 @@
+# vim: filetype=neomuttrc
+source /usr/share/mutt-wizard/mutt-wizard.muttrc
+source /home/peter/.config/mutt/accounts/1-pkruskopfs@gmail.com.muttrc
+source /home/peter/.config/mutt/dracula.muttrc 
+macro index,pager i1 '<sync-mailbox><enter-command>source /home/peter/.config/mutt/accounts/1-pkruskopfs@gmail.com.muttrc<enter><change-folder>!<enter>;<check-stats>' "switch to pkruskopfs@gmail.com"
+set editor ="nvim +':set textwidth=0'"
+set from = "pkruskopfs@gmail.com"
+set realname = "Peter Kruskopfs"
+set sidebar_width=20
+set sidebar_visible=yes
+set mail_check_stats
+
+#Sidebar navigation
+# sidebar mappings
+bind index,pager \Ck sidebar-prev              #Ctrl-k Up
+bind index,pager \Cj sidebar-next              #Ctrl-j Down
+bind index,pager \Co sidebar-open              #Ctrl-o Open
+bind index,pager \Cp sidebar-prev-new          #Ctrl-p Open previous new
+bind index,pager \Cn sidebar-next-new          #Ctrl-n Open next new
+bind index,pager B sidebar-toggle-visible      #Ctrl-B toggle sidebar

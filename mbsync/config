@@ -1,0 +1,26 @@
+
+
+IMAPStore pkruskopfs@gmail.com-remote
+Host imap.gmail.com
+Port 993
+User pkruskopfs@gmail.com
+PassCmd "pass pkruskopfs@gmail.com"
+AuthMechs LOGIN
+SSLType IMAPS
+CertificateFile /etc/ssl/certs/ca-certificates.crt
+
+MaildirStore pkruskopfs@gmail.com-local
+Subfolders Verbatim
+Path /home/peter/.local/share/mail/pkruskopfs@gmail.com/
+Inbox /home/peter/.local/share/mail/pkruskopfs@gmail.com/INBOX
+
+Channel pkruskopfs@gmail.com
+Expunge Both
+Master :pkruskopfs@gmail.com-remote:
+Slave :pkruskopfs@gmail.com-local:
+Patterns * !"[Gmail]/All Mail"
+Create Both
+SyncState *
+MaxMessages 0
+ExpireUnread no
+# End profile

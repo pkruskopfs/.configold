@@ -1,0 +1,29 @@
+{
+  "add books dialog dir": "/home/peter/ebooks/The Stand - Stephen King",
+  "add books dialog dir-last-used-filter-spec-all-files": false,
+  "catalogs_to_be_synced": {
+    "__class__": "set",
+    "__value__": []
+  },
+  "notified-version-updates": {
+    "__class__": "set",
+    "__value__": [
+      "5.28",
+      "5.35",
+      "5.21",
+      "5.32"
+    ]
+  },
+  "sort_history": [
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_device": "kindle_fire",
+  "welcome_wizard_was_run": true
+}

@@ -1,0 +1,11 @@
+account pkruskopfs@gmail.com
+host smtp.gmail.com
+port 587
+from pkruskopfs@gmail.com
+user pkruskopfs@gmail.com
+passwordeval "pass pkruskopfs@gmail.com"
+auth on
+tls on
+tls_trust_file	/etc/ssl/certs/ca-certificates.crt
+logfile /home/peter/.config/msmtp/msmtp.log
+

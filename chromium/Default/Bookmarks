@@ -1,0 +1,54 @@
+{
+   "checksum": "0f47c9f8fc9b1ebf6d410f2ad21750e5",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13269021944548047",
+            "guid": "54120e2b-32e7-4939-970d-07822912223e",
+            "id": "5",
+            "name": "GNU troff - Git Repositories [Savannah]",
+            "type": "url",
+            "url": "https://savannah.gnu.org/git/?group=groff"
+         }, {
+            "date_added": "13269277578340038",
+            "guid": "1f61f743-93ad-4c02-bead-525260c1be30",
+            "id": "6",
+            "name": "UVM Proxy Access Home",
+            "type": "url",
+            "url": "https://aisweb1.uvm.edu/pls/owa_prod/bwgkpxya.P_PA_ProxyAccess?P_PROXYIDM=-99896478&p_info=PINSAVED"
+         }, {
+            "date_added": "13269277598397420",
+            "guid": "63c04aed-9c9f-4e46-aee5-7ec221b42e1c",
+            "id": "7",
+            "name": "Estimate Your Bill",
+            "type": "url",
+            "url": "https://stdfinsv.w3.uvm.edu/billing_calculator/total_bill_calc.php"
+         } ],
+         "date_added": "13268950582514216",
+         "date_modified": "13269277598397420",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13268950582514218",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13268950582514219",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

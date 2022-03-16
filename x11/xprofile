@@ -1,0 +1,105 @@
+#!/bin/bash
+SP1="/home/peter/battery"
+SP2="/home/peter/mailbox"
+export TERMINAL="st"
+export BROWSER='firefox'
+export SUDO_ASKPASS="$HOME/.local/bin/dmenupass"
+#Keyboard layout
+setxkbmap us &
+
+#compositor
+picom -f &
+
+#sxhkd for key bindings
+sxhkd & 
+
+#speed xrate up
+xset r rate 300 50 &
+
+#start dunst for notifications
+dunst & 
+
+#start mpd for local music playing
+mpd &
+
+#wallpaper
+#nitrogen --restore &
+/home/peter/setbg ~/wallpapers &
+xrdb ${XDG_CONFIG_HOME:-$HOME/.config}/x11/.Xresources 
+xwallpaper --zoom ~/.config/wall.png 
+wal -i ~/.config/wall.png
+
+#set monitor and resolution
+SP3="/home/peter/.screenlayout/display.sh"
+mon(){
+  mon=$("$SP3")
+  "$mon"
+}
+
+#date function
+dte(){
+    dte="$(date +"%a %b %d %r")"
+    echo -e "$dte"
+}
+
+#checkupdates
+SP4="/home/peter/checkupdate"
+upd(){
+  upd=$("$SP4")
+  echo -e "$upd"
+}
+
+#Battery external script
+bat(){
+    bat=$("$SP1")
+	  echo -e "$bat"
+}
+#Mail external script
+mail(){
+    mail=$("$SP2")
+	  echo -e "$mail"
+}
+
+#Forecast external script
+SP5="/home/peter/.local/share/forecast"
+forecast(){
+    forecast=$("$SP5")
+	  echo -e "$forecast"
+}
+
+#bat(){
+ #   bat="$(cat /sys/class/power_supply/BAT0/capacity)"
+ #   echo -e "  $bat%"
+#}
+
+#Memory
+#mem(){
+#	mem="$(free -h --kilo | awk '/^Mem:/ {print $3 "/" $2}')"
+#  echo -e " $mem"
+#}
+
+#Volume
+vol(){
+  vol="$(awk -F"[][]" '/Left:/ { print $2 }' <(amixer sget Master))"
+  echo -e "🔊$vol"
+}
+
+#Gnome keyring startup for the session
+if [ -n "$DESKTOP_SESSION" ];then
+    eval $(gnome-keyring-daemon --start)
+    export SSH_AUTH_SOCK
+fi
+
+#start IBus on user login
+#ibus-daemon -drxR
+
+#create search everything function for FZF and select then edit
+se() { du -a ~/.config/* | awk '{print $2}' | fzf | xargs -r $EDITOR;} 
+
+# Statusbar loop
+while true; do
+	MEM=$(free -h --kilo | awk '/^Mem:/ {print $3 "/" $2}')
+	CPU=$(top -bn1 | grep "Cpu(s)" | sed "s/.*, *\([0-9.]*\)%* id.*/\1/" | awk '{print 100 - $1"%"}')
+  xsetroot -name "$(mail) | $(upd) | $(vol) | $(bat) | $(forecast) | $(dte)"
+  sleep 60s    # Update time every 60s
+done &
