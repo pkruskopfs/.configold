@@ -40,6 +40,7 @@ keymap('n', '<S-TAB>', ':bprevious<CR>', opts)
 -- telescope mapping
 keymap('n', '<Leader>ff', ':Telescope find_files<CR>', opts)
 keymap('n', '<Leader>fg', ':Telescope live_grep<CR>', opts)
+keymap('n', '<Leader>fm', ':Telescope media_files<CR>', opts)
 
 -- Resize with arrows
 keymap("n", "<C-Up>", ":resize -2<CR>", opts)
