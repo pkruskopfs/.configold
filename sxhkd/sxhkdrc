@@ -7,7 +7,7 @@ super + e
         $TERMINAL -e neomutt
 super + n
         $TERMINAL -e newsboat
-super + m
+super + alt + m
         $TERMINAL -e ncmpcpp 
 super + shift + l
         $TERMINAL -e slock
@@ -15,5 +15,19 @@ super + w
 	$TERMINAL -e less -Srf ~/.local/share/weatherreport
 super + Print
 	flameshot gui
-super + {alt,ctrl,alt + ctrl} + XF86Eject
-	sudo systemctl {suspend,reboot,poweroff}
+super + a
+				$TERMINAL -e ani-cli
+super + p
+				$TERMINAL -e pavucontrol
+XF86AudioMute
+    pactl set-sink-mute @DEFAULT_SINK@ toggle
+
+XF86Audio{Raise,Lower}Volume
+    pactl set-sink-volume @DEFAULT_SINK@ {+,-}2%
+
+super + {k,j}
+    pactl set-sink-volume @DEFAULT_SINK@ {+,-}2%
+
+super + shift + {k,j}
+    pactl set-sink-volume @DEFAULT_SINK@ {+,-}10%
+
