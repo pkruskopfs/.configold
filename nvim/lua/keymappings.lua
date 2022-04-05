@@ -38,7 +38,7 @@ keymap('n', '<TAB>', ':bnext<CR>', opts)
 keymap('n', '<S-TAB>', ':bprevious<CR>', opts)
 
 -- telescope mapping
-keymap('n', '<Leader>ff', ':Telescope find_files<CR>', opts)
+keymap('n', '<Leader>ff', ':Telescope find_files theme=dropdown<CR>', opts)
 keymap('n', '<Leader>fg', ':Telescope live_grep<CR>', opts)
 keymap('n', '<Leader>fm', ':Telescope media_files<CR>', opts)
 
