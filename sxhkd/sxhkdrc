@@ -15,19 +15,30 @@ super + w
 	$TERMINAL -e less -Srf ~/.local/share/weatherreport
 super + Print
 	flameshot gui
-super + a
+super + shift + a
 				$TERMINAL -e ani-cli
 super + p
 				$TERMINAL -e pavucontrol
 XF86AudioMute
-    pactl set-sink-mute @DEFAULT_SINK@ toggle
+				pactl set-sink-mute @DEFAULT_SINK@ toggle
 
 XF86Audio{Raise,Lower}Volume
-    pactl set-sink-volume @DEFAULT_SINK@ {+,-}2%
+				pactl set-sink-volume @DEFAULT_SINK@ {+,-}2%
 
-super + {k,j}
-    pactl set-sink-volume @DEFAULT_SINK@ {+,-}2%
+super + {u,i}
+				pactl set-sink-volume @DEFAULT_SINK@ {+,-}2%
 
-super + shift + {k,j}
-    pactl set-sink-volume @DEFAULT_SINK@ {+,-}10%
+super + shift + {u,i}
+				pactl set-sink-volume @DEFAULT_SINK@ {+,-}10%
 
+super + shift + d
+				~/dmenuscripts/dmconf
+
+super + alt + v
+				$TERMINAL -e mbsync -a -c ~/.config/mbsync/config
+
+super + shift + b
+				$TERMINAL -e calibre --with-library ~/.local/share/Calibre\ Library/
+
+super + shift+ f
+				$TERMINAL -e lfub
